@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hvXvMqjye0Y=",
+  "dgSpecHash": "EehAr0Nk404=",
   "success": true,
-  "projectFilePath": "C:\\Users\\johnt\\ProductManagementWeb\\ProductManagementWeb.csproj",
+  "projectFilePath": "C:\\Users\\johnt\\Desktop\\Programming\\Project\\C#\\.NET Framework\\Entity Framework Core\\ProductManagementWeb\\ProductManagementWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnt\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\johnt\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

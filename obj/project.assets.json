@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnt\\ProductManagementWeb\\ProductManagementWeb.csproj",
+      "projectUniqueName": "C:\\Users\\johnt\\Desktop\\Programming\\Project\\C#\\.NET Framework\\Entity Framework Core\\ProductManagementWeb\\ProductManagementWeb.csproj",
       "projectName": "ProductManagementWeb",
-      "projectPath": "C:\\Users\\johnt\\ProductManagementWeb\\ProductManagementWeb.csproj",
+      "projectPath": "C:\\Users\\johnt\\Desktop\\Programming\\Project\\C#\\.NET Framework\\Entity Framework Core\\ProductManagementWeb\\ProductManagementWeb.csproj",
       "packagesPath": "C:\\Users\\johnt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnt\\ProductManagementWeb\\obj\\",
+      "outputPath": "C:\\Users\\johnt\\Desktop\\Programming\\Project\\C#\\.NET Framework\\Entity Framework Core\\ProductManagementWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3194,7 +3194,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
